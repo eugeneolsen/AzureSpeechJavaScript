@@ -1,0 +1,2 @@
+# AzureSpeechJavaScript
+ Continuous speach recognition
